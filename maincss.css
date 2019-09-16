@@ -1,0 +1,19 @@
+body {
+	
+	background-image:download(1).jpg;
+}
+a.hover {
+	color: red;
+}
+a {
+  color: #2196F3;
+}
+
+hr {
+  border: 1px solid lightgrey;
+}
+
+span.price {
+  float: right;
+  color: grey;
+}
